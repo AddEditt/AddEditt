@@ -1,4 +1,3 @@
-welcome to the dumpster fire  😎
 
 <h1 align="center">welcome to the dumpster fire 😎 AddEdit</h1>
 <h3 align="center">Im a retard who cant code</h3>
